@@ -1,0 +1,199 @@
+I can’t send you a real downloadable `.txt` file directly here, but I can give you the full teaching structure content in **plain text format** so you can copy‑paste it into a text editor (like Notepad, VS Code, Sublime) and save it yourself as `HTML_Teaching_Structure.txt`.  
+
+***
+
+**HTML TEACHING STRUCTURE – 100% HTML (NO CSS/JS)**
+
+***
+
+### 1) Foundations and Document Anatomy
+- What HTML is: purpose, markup, elements, attributes.
+- Document skeleton: doctype, html, head, body.
+- Minimal valid page: required pieces and why they matter.
+- Global attributes: id, class, title, lang, dir, hidden, tabindex, data-*.
+- Comments and whitespace: when and how to use.
+
+Side topics later:
+- Content categories: flow, phrasing, sectioning, interactive, embedded.
+- Palpable content and empty elements.
+
+***
+
+### 2) Head and Metadata
+- head basics: title, meta charset, viewport, description.
+- Linking resources: link rel (icons, manifest), base URL.
+- Favicons/app icons.
+
+Side topics later:
+- SEO-friendly metadata and social previews (og:, twitter:).
+- Localization (lang, dir).
+
+***
+
+### 3) Text and Semantics
+- Headings h1–h6: hierarchy and document outline.
+- Paragraphs p and hr.
+- Emphasis and meaning: em, strong, small, mark, cite, q, blockquote.
+- Code elements: code, kbd, samp, var.
+- time, abbr, data, dfn.
+
+Side topics later:
+- hgroup usage.
+- Quotations best practices.
+
+***
+
+### 4) Links and Navigation
+- a: href, target, download, rel.
+- nav element: when to use.
+- Internal anchors with id; skip links.
+
+Side topics:
+- Link semantics.
+- base element effect.
+
+***
+
+### 5) Lists and Grouping
+- ul, ol, li usage.
+- Description lists dl, dt, dd.
+- div for generic grouping.
+
+Side topics:
+- Nested lists.
+- menu vs ul.
+
+***
+
+### 6) Sectioning and Page Structure
+- section, article, header, footer, main, aside.
+- Headings in each section.
+- address for contact info.
+
+Side topics:
+- section vs article.
+- headers/footers per section.
+
+***
+
+### 7) Images and Media
+- img: src, alt, width/height, figure/figcaption.
+- audio and video basics.
+- Decorative vs informative.
+
+Side topics:
+- Accessibility of media.
+- picture element concepts.
+
+***
+
+### 8) Tables
+- table structure: caption, thead, tbody, tfoot, tr, th, td.
+- scope on th.
+
+Side topics:
+- Multi-level headers.
+- caption placement.
+
+***
+
+### 9) Forms
+- form: action, method, name/value.
+- label association: for/id, fieldset, legend.
+- Inputs: text, email, url, number, checkbox, radio, file, hidden.
+- textarea, select/option/optgroup, button.
+- Validation attributes: required, minlength, maxlength, pattern.
+
+Side topics:
+- Grouping radios.
+- Accessibility tips.
+
+***
+
+### 10) Interactive/Disclosure HTML Elements
+- details/summary.
+- dialog basics.
+- meter and progress.
+
+Side topics:
+- Keyboard focus expectations.
+- HTML-only behaviors.
+
+***
+
+### 11) Advanced Semantics & Content Models
+- Content categories: flow vs phrasing.
+- Inline vs block behavior and content models.
+- Interactive content rules.
+
+Side topics:
+- How browsers fix invalid HTML.
+- Palpable and empty elements.
+
+***
+
+### 12) Accessibility First (No ARIA/JS)
+- Semantics for a navigable outline.
+- Alt text rules.
+- Focus order by source.
+
+Side topics:
+- Landmarks (header, nav, main, footer).
+- When ARIA might be needed.
+
+***
+
+### 13) Templates & Headless HTML
+- template element.
+- slot/shadow DOM terms.
+
+Side topics:
+- Intro to Web Components.
+
+***
+
+### 14) Quality & Validation
+- W3C validator usage.
+- Common mistakes: invalid nesting, missing alt/labels.
+
+Side topics:
+- HTML vs DOM.
+- Progressive enhancement.
+
+***
+
+### 15) Capstone Project (HTML Only)
+- Multi-page site:
+  - Home with nav and headings.
+  - About section.
+  - Projects with article + figure.
+  - Blog/article page (article + aside + section).
+  - Contact (form with labels, fieldset, legend).
+- Accessibility check.
+
+***
+
+**TEACHING FLOW**
+1. Document anatomy & head/meta  
+2. Text semantics  
+3. Links/nav  
+4. Lists/grouping  
+5. Sectioning  
+6. Images  
+7. Tables  
+8. Forms  
+9. Disclosure elements  
+10. Advanced content models  
+11. Accessibility-first HTML  
+12. Validation  
+13. Capstone site assembly  
+
+***
+
+You can now copy this into **Notepad** and save as:
+`HTML_Teaching_Structure.txt`
+
+***
+
+If you want, I can also prepare a **week-by-week breakdown** in the `.txt` so it’s ready as a full **teaching syllabus** for HTML.  
+Do you want me to do that?
