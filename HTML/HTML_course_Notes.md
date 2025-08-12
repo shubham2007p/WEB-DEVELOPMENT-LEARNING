@@ -1,7 +1,7 @@
 # HTML TEACHING COURSE
 This course is a complete introduction to HTML, the foundational language of the web.
 Designed for beginners, it covers the structure and semantics of web pages, from basic document setup to advanced HTML elements and accessibility best practices — without using CSS or JavaScript.
-## TEACHING FLOW / Topics to be coverd
+## TEACHING FLOW / Topics to be covered
 
 1. Basic Introduction
 1. HTML Code Structure & Rules
@@ -27,7 +27,7 @@ Designed for beginners, it covers the structure and semantics of web pages, from
 
 ---
 
-> **Callout (Question):** Why do we need this language? What does it do?  
+> **(Question):** Why do we need this language? What does it do?  
 > **Answer:**  
 > HTML acts as the **skeleton** of every web page. It tells the browser **what** should be displayed and **in what order** — what comes first, what comes later, and what appears last.  
 > It also gives **priority and emphasis** to certain parts of a page — for example, bold and large **headings** for important titles, smaller bold **subheadings** for section topics, and many other ways to mark up your content.
